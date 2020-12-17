@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    hi
+    cout << "working document ";
     return 0;
 }
